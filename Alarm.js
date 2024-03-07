@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         Priem Attack Alarm
-// @version      1.5.5
+// @version      1.5.6
 // @description  Custom and better attack alarm.
 // @author       Miro en Huug
 // @include        https://nl110.grepolis.com/game/*
 // @include        https://nl108.grepolis.com/game/*
 // @include        https://nl111.grepolis.com/game/*
 // @include        https://nl112.grepolis.com/game/*
+// @include        https://nl113.grepolis.com/game/*
+// @include        https://nl114.grepolis.com/game/*
 // @grant        none
 // @license      MIT
 // @namespace https://greasyfork.org/users/984383
