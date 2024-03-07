@@ -8,6 +8,7 @@
 // @include        https://nl111.grepolis.com/game/*
 // @include        https://nl112.grepolis.com/game/*
 // @grant        none
+// @license      MIT
 // @namespace https://greasyfork.org/users/984383
 // ==/UserScript==
 
